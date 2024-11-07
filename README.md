@@ -1,2 +1,2 @@
 # TFM
-Desarrollo del TFM-Bioinformática, documentos, programa
+Desarrollo del Documento del TFM en R/Quarto.
